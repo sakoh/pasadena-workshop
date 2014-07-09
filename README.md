@@ -1,5 +1,6 @@
-pasadena-workshop
-=================
+# Pasadena Github & Git Workshop
 
-Hello World
------------
+* Learn about Github.com
+* Discover local uses of git Technology.
+* Try some collaboration patterns.
+
